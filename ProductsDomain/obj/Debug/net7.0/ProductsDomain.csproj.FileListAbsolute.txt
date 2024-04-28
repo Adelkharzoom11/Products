@@ -1,0 +1,14 @@
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\bin\Debug\net7.0\ProductsDomain.deps.json
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\bin\Debug\net7.0\ProductsDomain.dll
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\bin\Debug\net7.0\ProductsDomain.pdb
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.AssemblyInfoInputs.cache
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.AssemblyInfo.cs
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.csproj.CoreCompileInputs.cache
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.dll
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\refint\ProductsDomain.dll
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.pdb
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ref\ProductsDomain.dll
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\bin\Debug\net7.0\ProductsDomain.runtimeconfig.json
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.csproj.AssemblyReference.cache
+C:\Users\adelk\OneDrive\سطح المكتب\Products\ProductsDomain\obj\Debug\net7.0\ProductsDomain.genruntimeconfig.cache
